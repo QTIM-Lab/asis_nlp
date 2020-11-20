@@ -1,8 +1,6 @@
 # asis_nlp
 
-*** pending paper publication ***
+Script for training a supervised natural language processing random forest classifier for radiology report impressions for acute or subacute ischemic strokes (ASIS), using bag-of-word vectorization of report impressions. See details about the study in the published study manuscript at LINK PENDING.
 
-scripts for supervised natural language processing models
-
-questions? mdli@mgh.harvard.edu
+Questions? mdli@mgh.harvard.edu
 
